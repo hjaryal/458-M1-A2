@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "customerName": "Anthony Negi",
+        "phoneNumber": "(857) 980-0988",
+        "address": "Polytechnic",
+        "loanAmount": "25000",
+        "interest": "10",
+        "loanTermYears": "2",
+        "loanType": "FHA",
+        "total": "",
+        "description": "Introduction to Information Technology"
+    },
+    {
+        "id": 1,
+        "customerName": "Hansika Jaryal",
+        "phoneNumber": "(430) 999-0988",
+        "address": "Phoenix",
+        "loanAmount": "4000",
+        "interest": "10",
+        "loanTermYears": "2",
+        "loanType": "Conventional",
+        "total": "",
+        "description": "International Culture"
+      },
+      {
+        "id": 2,
+        "customerName": "Kiara Roy",
+        "phoneNumber": "(857) 980-0988",
+        "address": "Tempe",
+        "loanAmount": "3000",
+        "interest": "10",
+        "loanTermYears": "2",
+        "loanType": "VA",
+        "total": "",
+        "description": "Virtualization"
+      },
+      {
+        "id": 3,
+        "customerName": "Mary Kato",
+        "phoneNumber": "(857) 980-0988",
+        "address": "Mesa",
+        "loanAmount": "2000",
+        "interest": "10",
+        "loanTermYears": "2",
+        "loanType": "FHA",
+        "total": "",
+        "description": "Virtualization"
+      },
+      {
+        "id": 4,
+        "customerName": "Rebecca Gom",
+        "phoneNumber": "(857) 980-0988",
+        "address": "Polytechnic",
+        "loanAmount": "1500",
+        "interest": "10",
+        "loanTermYears": "2",
+        "loanType": "Conventional",
+        "total": "",
+        "description": "Animal Science" 
+      }
+]
